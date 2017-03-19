@@ -49,8 +49,11 @@ public class UserServiceOOCTest extends BaseTest{
 
         session.saveOrUpdate(user1);
 
-
         session.flush();
+
+    }
+
+    public void testCheckUserLogin(){
 
     }
 

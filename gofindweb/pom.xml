@@ -95,7 +95,14 @@
             <artifactId>gofind-service</artifactId>
             <groupId>com.statestr</groupId>
         </dependency>
-
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+        </dependency>
     </dependencies>
     <build>
         <finalName>gofind-web</finalName>

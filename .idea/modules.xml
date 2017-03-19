@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gofind.iml" filepath="$PROJECT_DIR$/gofind.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gofindservice/gofindservice.iml" filepath="$PROJECT_DIR$/gofindservice/gofindservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gofindweb/gofindweb.iml" filepath="$PROJECT_DIR$/gofindweb/gofindweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gofindservice/gofind-service.iml" filepath="$PROJECT_DIR$/gofindservice/gofind-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gofindweb/gofind-web.iml" filepath="$PROJECT_DIR$/gofindweb/gofind-web.iml" />
     </modules>
   </component>
 </project>
